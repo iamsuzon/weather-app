@@ -1,1 +1,1 @@
-https://weatherapp.devsuzon.com
+http://weatherapp.devsuzon.com
